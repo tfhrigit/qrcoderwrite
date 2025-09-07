@@ -26,3 +26,4 @@ buka browser dan kunjungi http://localhost:5000
 ✅ background gradient lembut
 ✅ layout center menggunakan flexbox
 ✅ QRcode dalam card dengan shadow dan border radius
+boleh unduh dan rubah stylish
